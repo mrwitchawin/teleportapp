@@ -40,5 +40,12 @@
     "password": "012839696a",
     "expiresAt": "2025-10-7",
     "allowOffline": false
+  },
+  {
+    "id": "79f886d39949443d",
+    "username": "Boyswip555",
+    "password": "Boyswip5555",
+    "expiresAt": "2025-10-17",
+    "allowOffline": false
   }
 ]

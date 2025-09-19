@@ -75,5 +75,12 @@
     "password": "11112535",
     "expiresAt": "2099-9-9",
     "allowOffline": false
+  },
+  {
+    "id": "3ebb57aeaf1d0136",
+    "username": "Adisuk",
+    "password": "bank",
+    "expiresAt": "2025-10-14",
+    "allowOffline": false
   }
 ]

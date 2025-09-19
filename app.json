@@ -19,5 +19,12 @@
     "password": "0881758525a",
     "expiresAt": "2099-9-9",
     "allowOffline": false
+  },
+  {
+    "id": "4f799b02bd6713c1",
+    "username": "kangza117",
+    "password": "012839696a",
+    "expiresAt": "2025-10-7",
+    "allowOffline": false
   }
 ]

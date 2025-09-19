@@ -40,5 +40,12 @@
     "password": "iiznuwar1990",
     "expiresAt": "2025-9-20",
     "allowOffline": false
+  },
+  {
+    "id": "af78153c3165933a",
+    "username": "0878819211",
+    "password": "0878819211",
+    "expiresAt": "2099-9-9",
+    "allowOffline": false
   }
 ]

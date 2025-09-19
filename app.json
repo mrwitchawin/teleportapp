@@ -82,5 +82,12 @@
     "password": "bank",
     "expiresAt": "2025-10-14",
     "allowOffline": false
+  },
+  {
+    "id": "e3b3cc8ea600baef",
+    "username": "oil241131",
+    "password": "0989014214",
+    "expiresAt": "2025-10-16",
+    "allowOffline": false
   }
 ]

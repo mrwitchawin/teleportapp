@@ -26,5 +26,12 @@
     "password": "012839696a",
     "expiresAt": "2025-10-7",
     "allowOffline": false
+  },
+  {
+    "id": "40b843db0c2e5c32",
+    "username": "Rka999",
+    "password": "eeee3333",
+    "expiresAt": "2025-10-10",
+    "allowOffline": false
   }
 ]

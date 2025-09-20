@@ -117,5 +117,12 @@
     "password": "bank",
     "expiresAt": "2025-10-14",
     "allowOffline": false
+  },
+  {
+    "id": "e0397aecd0639ab0",
+    "username": "Prasert7039",
+    "password": "123456",
+    "expiresAt": "2025-10-10",
+    "allowOffline": false
   }
 ]

@@ -82,5 +82,12 @@
     "password": "Qq201139",
     "expiresAt": "2099-9-9",
     "allowOffline": false
+  },
+  {
+    "id": "f2a166e92bf1225d",
+    "username": "Zuyza",
+    "password": "1234",
+    "expiresAt": "2025-9-23",
+    "allowOffline": false
   }
 ]

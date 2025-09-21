@@ -33,5 +33,12 @@
     "password": "230161",
     "expiresAt": "2025-10-21",
     "allowOffline": false
+  },
+  {
+    "id": "e96e45c1c816c75f",
+    "username": "bitzailove",
+    "password": "0881758525a",
+    "expiresAt": "2099-10-21",
+    "allowOffline": false
   }
 ]

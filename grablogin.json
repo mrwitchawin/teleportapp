@@ -89,5 +89,12 @@
     "password": "1234",
     "expiresAt": "2025-9-23",
     "allowOffline": false
+  },
+  {
+    "id": "7b103765a5907a36",
+    "username": "zer01990",
+    "password": "iiznuwar1990",
+    "expiresAt": "2099-9-23",
+    "allowOffline": false
   }
 ]

@@ -7,9 +7,9 @@
     "allowOffline": true
   },
   {
-    "id": "2ed9a82f10a79058",
-    "username": "admin",
-    "password": "11111",
+    "id": "8a2fb666f51fa796",
+    "username": "emp3578",
+    "password": "135798413",
     "expiresAt": "2099-11-30",
     "allowOffline": false
   },
@@ -115,13 +115,6 @@
     "id": "1c1e833acd6295d9",
     "username": "mettlesomez",
     "password": "Thawatchai9",
-    "expiresAt": "2099-10-4",
-    "allowOffline": false
-  },
-  {
-    "id": "8a2fb666f51fa796",
-    "username": "zer01990",
-    "password": "iiznuwar1990",
     "expiresAt": "2099-10-4",
     "allowOffline": false
   },

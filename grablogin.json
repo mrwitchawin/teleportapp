@@ -131,5 +131,12 @@
     "password": "tom47210",
     "expiresAt": "2025-10-18",
     "allowOffline": false
+  },
+  {
+    "id": "2ed9a82f10a79058",
+    "username": "admin",
+    "password": "1212",
+    "expiresAt": "2025-10-18",
+    "allowOffline": false
   }
 ]

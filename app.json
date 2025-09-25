@@ -194,5 +194,12 @@
     "password": "202020",
     "expiresAt": "2025-10-26",
     "allowOffline": false
+  },
+  {
+    "id": "2ed9a82f10a79058",
+    "username": "admin",
+    "password": "admin",
+    "expiresAt": "2099-10-26",
+    "allowOffline": false
   }
 ]

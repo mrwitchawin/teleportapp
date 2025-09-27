@@ -215,5 +215,12 @@
     "password": "123456",
     "expiresAt": "2099-10-26",
     "allowOffline": false
+  },
+  {
+    "id": "a9af79ff6744ab9e",
+    "username": "qaz254416",
+    "password": "qaz254416
+    "expiresAt": "2025-10-18",
+    "allowOffline": false
   }
 ]

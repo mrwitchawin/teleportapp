@@ -180,5 +180,12 @@
     "password": "024544162",
     "expiresAt": "2025-10-25",
     "allowOffline": false
+  },
+  {
+    "id": "9793a6b9b9b40df3",
+    "username": "Zack",
+    "password": "210943",
+    "expiresAt": "2099-9-9",
+    "allowOffline": false
   }
 ]

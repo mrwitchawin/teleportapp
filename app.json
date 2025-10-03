@@ -243,5 +243,12 @@
     "password": "sonsin43488",
     "expiresAt": "2099-10-18",
     "allowOffline": false
+  },
+  {
+    "id": "0e699f02241e7f7e",
+    "username": "AnyaDad",
+    "password": "AnyaDad10",
+    "expiresAt": "2099-10-18",
+    "allowOffline": false
   }
 ]

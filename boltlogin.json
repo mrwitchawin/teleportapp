@@ -201,12 +201,5 @@
     "password": "L123456",
     "expiresAt": "2099-9-9",
     "allowOffline": false
-  },
-  {
-    "id": "0a6d021fd9786698",
-    "username": "Ayuwat",
-    "password": "Ayuwat2538",
-    "expiresAt": "2099-9-9",
-    "allowOffline": false
   }
 ]

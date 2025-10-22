@@ -1,10 +1,17 @@
 [
   {
-    "id": "2ed9a82f10a79058",
-    "username": "teleport",
-    "password": "121212",
-    "expiresAt": "2099-9-24",
+    "id": "6d95fal7c7e40bea",
+    "username": "dpmods",
+    "password": "dpmods",
+    "expiresAt": "2025-12-31",
     "allowOffline": true
+  },
+  {
+    "id": "2ed9a82f10a79058",
+    "username": "pond",
+    "password": "123456",
+    "expiresAt": "2099-9-9",
+    "allowOffline": false
   },
   {
     "id": "8a2fb666f51fa796",

@@ -1,10 +1,10 @@
 [
   {
     "id": "2ed9a82f10a79058",
-    "username": "gm",
+    "username": "teleport",
     "password": "121212",
     "expiresAt": "2099-9-24",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "8a2fb666f51fa796",

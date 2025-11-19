@@ -1,4 +1,4 @@
-[
+ [
   {
     "id": "2ed9a82f10a79058",
     "username": "gm",
@@ -858,6 +858,13 @@
     "username": "Werawat",
     "password": "123456",
     "expiresAt": "2025-12-20",
+    "allowOffline": false
+   },
+   {
+    "id": "a797903b2a202a9e",
+    "username": "Rachata",
+    "password": "123456",
+    "expiresAt": "2099-12-20",
     "allowOffline": false
    }
 ]

@@ -1069,5 +1069,12 @@
     "password": "123456",
     "expiresAt": "2099-1-18",
     "allowOffline": false
+   },
+   {
+    "id": "dd047a893346c6f7",
+    "username": "khukiet2",
+    "password": "123456",
+    "expiresAt": "2026-1-20",
+    "allowOffline": false
    }
 ]

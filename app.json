@@ -1104,5 +1104,12 @@
     "password": "123456",
     "expiresAt": "2026-1-22",
     "allowOffline": false
+   },
+   {
+    "id": "e1c72eb11cbb8c29",
+    "username": "Man01",
+    "password": "123456",
+    "expiresAt": "2026-1-23",
+    "allowOffline": false
    }
 ]

@@ -48,5 +48,12 @@
     "password": "123456",
     "expiresAt": "2026-1-18",
     "allowOffline": false
-   }
+   },
+   {
+    "id": "2ed7aaa0adb106c5",
+    "username": "titichok",
+    "password": "123456",
+    "expiresAt": "2025-12-29",
+    "allowOffline": false
+   },
 ]

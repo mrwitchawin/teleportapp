@@ -70,13 +70,6 @@
     "allowOffline": false
   },
   {
-    "id": "29059a7ced073550",
-    "username": "beem2553",
-    "password": "202020",
-    "expiresAt": "2099-9-9",
-    "allowOffline": false
-  },
-  {
     "id": "f2a166e92bf1225d",
     "username": "Zuyza",
     "password": "1234",
@@ -340,7 +333,7 @@
     "username": "Alongkon",
     "password": "123456",
     "expiresAt": "2099-11-7",
-    "allowOffline": false 
+    "allowOffline": false
   },
   {
     "id": "0d5e3b571006b6bc",
@@ -753,7 +746,7 @@
     "username": "Aekkachai",
     "password": "123456",
     "expiresAt": "2026-1-25",
-    "allowOffline": false 
+    "allowOffline": false
    },
    {
     "id": "7bff7608f97e75a4",

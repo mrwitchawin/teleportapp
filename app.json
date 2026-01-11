@@ -647,7 +647,7 @@
     "id": "127ac87ea4792ef1",
     "username": "Sanan",
     "password": "123456",
-    "expiresAt": "2026-1-9",
+    "expiresAt": "2026-2-12",
     "allowOffline": false
    },
    {
@@ -886,13 +886,6 @@
     "username": "Aitsara",
     "password": "123456",
     "expiresAt": "2099-12-24",
-    "allowOffline": false
-   },
-   {
-    "id": "604318c1897b308c",
-    "username": "Sanan1",
-    "password": "123456",
-    "expiresAt": "2026-2-12",
     "allowOffline": false
    },
    {

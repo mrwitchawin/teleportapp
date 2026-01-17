@@ -427,13 +427,6 @@
     "allowOffline": false
   },
   {
-    "id": "dd047a893346c6f7",
-    "username": "khukiet",
-    "password": "123456",
-    "expiresAt": "2026-1-17",
-    "allowOffline": false
-  },
-  {
     "id": "bfbb2f78588dd41b",
     "username": "Amin",
     "password": "123456",
@@ -822,7 +815,7 @@
     "id": "34d48361b1c9b311",
     "username": "Khukiet",
     "password": "123456",
-    "expiresAt": "2026-1-17",
+    "expiresAt": "2026-2-17",
     "allowOffline": false
    },
    {

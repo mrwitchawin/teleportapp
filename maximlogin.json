@@ -62,12 +62,5 @@
     "password": "123456",
     "expiresAt": "2099-2-8",
     "allowOffline": false
-   },
-   {
-    "id": "2af221ebb0234d57",
-    "username": "Nawinrocco070142",
-    "password": "Thoopairoh070142",
-    "expiresAt": "2099-10-4",
-    "allowOffline": false
    }
    ]

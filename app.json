@@ -504,13 +504,6 @@
     "allowOffline": false
   },
   {
-    "id": "31b8bdadb2c7fd5c",
-    "username": "Naruedon",
-    "password": "123456",
-    "expiresAt": "2026-4-2",
-    "allowOffline": false
-  },
-  {
     "id": "acc05e0f7caf3990",
     "username": "Thanakorn",
     "password": "123456",
@@ -892,7 +885,7 @@
     "id": "ae4dddbdeb10dc55",
     "username": "Naruedon",
     "password": "123456",
-    "expiresAt": "2026-2-28",
+    "expiresAt": "2026-4-3",
     "allowOffline": false
    },
    {

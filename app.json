@@ -14,6 +14,13 @@
     "allowOffline": false
   },
   {
+    "id": "e1c6c8b29765439f",
+    "username": "mana",
+    "password": "123456",
+    "expiresAt": "2029-11-30",
+    "allowOffline": false
+  },
+  {
     "id": "9793a6b9b9b40df3",
     "username": "Zack",
     "password": "210943",

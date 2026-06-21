@@ -1617,7 +1617,7 @@
     "allowOffline": false
    },
    {
-    "id": "ea6c87a701b02b2f",
+    "id": "67abbdfc5a19e312",
     "username": "Yanthana",
     "password": "123456",
     "expiresAt": "2029-3-31",
@@ -2032,13 +2032,6 @@
    {
     "id": "a35ff4977bbde81a",
     "username": "Wichiar",
-    "password": "123456",
-    "expiresAt": "2026-6-24",
-    "allowOffline": false
-   },
-   {
-    "id": "3c93e29f76240dfc",
-    "username": "Jaruenpong",
     "password": "123456",
     "expiresAt": "2026-6-24",
     "allowOffline": false

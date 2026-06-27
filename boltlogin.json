@@ -241,7 +241,7 @@
     "id": "0007d8651ba965bd",
     "username": "PORNSAK",
     "password": "123456",
-    "expiresAt": "2026-4-27",
+    "expiresAt": "2026-7-28",
     "allowOffline": false
   },
   {
@@ -1075,13 +1075,6 @@
     "username": "ThanyaAnek",
     "password": "123456",
     "expiresAt": "2026-7-20",
-    "allowOffline": false
-   },
-   {
-    "id": "0007d8651ba965bd",
-    "username": "PORNSAK",
-    "password": "123456",
-    "expiresAt": "2026-7-28",
     "allowOffline": false
    }
    

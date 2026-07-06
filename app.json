@@ -94,7 +94,7 @@
     "id": "d6d87878b1a3618a",
     "username": "Adisak",
     "password": "123456",
-    "expiresAt": "2099-10-7",
+    "expiresAt": "2029-10-7",
     "allowOffline": false
   },
   {
@@ -108,13 +108,6 @@
     "id": "af78153c3165933a",
     "username": "0878819211",
     "password": "0878819211",
-    "expiresAt": "2099-9-9",
-    "allowOffline": false
-  },
-  {
-    "id": "29059a7ced073550",
-    "username": "beem2553",
-    "password": "202020",
     "expiresAt": "2099-9-9",
     "allowOffline": false
   },
@@ -329,13 +322,6 @@
     "allowOffline": false
   },
   {
-    "id": "825f63f6670cbc81",
-    "username": "Sirirat",
-    "password": "123456",
-    "expiresAt": "2099-10-30",
-    "allowOffline": false
-  },
-  {
     "id": "6e2dd8d1a3d4bae0",
     "username": "Offside23",
     "password": "OaKz424242",
@@ -395,7 +381,7 @@
     "id": "825f63f6670cbc81",
     "username": "Sirirat",
     "password": "123456",
-    "expiresAt": "2099-9-9",
+    "expiresAt": "2029-9-9",
     "allowOffline": false
   },
   {
@@ -532,22 +518,8 @@
     "allowOffline": false
   },
   {
-    "id": "18dbe6561b0a5644",
-    "username": "Suwat",
-    "password": "144121",
-    "expiresAt": "2099-9-9",
-    "allowOffline": false
-  },
-  {
     "id": "acc05e0f7caf3990",
     "username": "Thanakorn",
-    "password": "123456",
-    "expiresAt": "2099-11-24",
-    "allowOffline": false
-  },
-  {
-    "id": "ca2a581af691b86e",
-    "username": "Tongz",
     "password": "123456",
     "expiresAt": "2099-11-24",
     "allowOffline": false
@@ -998,13 +970,6 @@
     "username": "Nathakon1",
     "password": "123456",
     "expiresAt": "2026-1-2",
-    "allowOffline": false
-   },
-   {
-    "id": "d6d87878b1a3618a",
-    "username": "Adisak",
-    "password": "Aod3434",
-    "expiresAt": "2025-12-8",
     "allowOffline": false
    },
    {

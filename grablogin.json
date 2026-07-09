@@ -303,7 +303,7 @@
     "username": "Alongkon",
     "password": "123456",
     "expiresAt": "2029-11-07",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "0d5e3b571006b6bc",

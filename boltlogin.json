@@ -614,5 +614,12 @@
     "password": "123456",
     "expiresAt": "2029-07-15",
     "allowOffline": false
+  },
+  {
+    "id": "f8e7d98011170705",
+    "username": "Auckapon",
+    "password": "123456",
+    "expiresAt": "2026-08-12",
+    "allowOffline": false
   }
 ]

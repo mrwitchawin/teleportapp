@@ -621,12 +621,5 @@
     "password": "123456",
     "expiresAt": "2026-08-12",
     "allowOffline": false
-  },
-  {
-    "id": "783df092ff0d6edb",
-    "username": "Kanitpon",
-    "password": "123456",
-    "expiresAt": "2026-08-14",
-    "allowOffline": false
   }      
 ]

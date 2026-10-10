@@ -1364,5 +1364,12 @@
     "password": "123456",
     "expiresAt": "2026-11-10",
     "allowOffline": false
-  }                                                                                                                                                                                                                                                              
+  },
+  {
+    "id": "cb9b4093f328c6b8",
+    "username": "Vinus",
+    "password": "123456",
+    "expiresAt": "2026-11-11",
+    "allowOffline": false
+  }                                                                                                                                                                                                                                                                      
  ]

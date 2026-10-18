@@ -2126,6 +2126,13 @@
     "password": "123456",
     "expiresAt": "2026-11-13",
     "allowOffline": false
-  }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+  },
+  {
+    "id": "ae9e8c4f047cf9fc",
+    "username": "Verachad",
+    "password": "123456",
+    "expiresAt": "2026-11-19",
+    "allowOffline": false
+  }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
   ]
 

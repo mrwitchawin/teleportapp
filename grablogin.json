@@ -1390,7 +1390,7 @@
     "id": "f889b95947a944f9",
     "username": "Ails99",
     "password": "123456",
-    "expiresAt": "2026-11-10",
+    "expiresAt": "2026-12-11",
     "allowOffline": false
   },
   {
@@ -1469,12 +1469,6 @@
     "password": "123456",
     "expiresAt": "2026-12-07",
     "allowOffline": false
-  },
-  {
-    "id": "f889b95947a944f9",
-    "username": "Ails99",
-    "password": "123456",
-    "expiresAt": "2026-12-11",
-    "allowOffline": false
+  
   }                                                                                                                                                                                                                                                                                                                                                                                         
  ]

@@ -1986,6 +1986,13 @@
     "password": "123456",
     "expiresAt": "2026-12-25",
     "allowOffline": false
-  }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+  },
+  {
+    "id": "7609f3b4944f5503",
+    "username": "Aduldet",
+    "password": "123456",
+    "expiresAt": "2026-12-27",
+    "allowOffline": false
+  }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
   ]
 
